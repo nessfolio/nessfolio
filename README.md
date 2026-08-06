@@ -20,7 +20,7 @@
 
 <h3>Contacts:</h3>
 <ul>
-<li>Mail: sadyrov.nurbek8000@gmail.com</li>
+<li>Mail: nessfolio@gmail.com</li>
 <li>Telegram: @ness_8000</li>
 </ul>
 
