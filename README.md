@@ -9,7 +9,7 @@
 <div>
 <h3>About Me:</h3>
 <ul>
-<li>💻 Front-end Developer</li>
+<li>💻 Full-stack Developer</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 </ul>
 
